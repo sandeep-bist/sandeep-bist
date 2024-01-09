@@ -18,5 +18,5 @@ Hi 👋 My name is Sandeep bisht
 Full stack developer
 --------------------
 *   🌍  I'm based in India
-*   🖥️  See my portfolio at [Myportfolio](http://sandeepbisht.com)
-*   ✉️  You can contact me at [sandeeep.bist@gmail.com](mailto:sandeep.bisht.codes@gmail.com)
+*   🖥️  See my portfolio at [Myportfolio](https://about.me/isandeepbisht)
+*   ✉️  You can contact me at [mail2sandeep](mailto:sandeep.bisht.codes@gmail.com)
